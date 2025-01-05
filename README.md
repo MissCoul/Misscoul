@@ -11,7 +11,7 @@ Welcome to my portfolio! Here, you'll find projects showcasing data science and 
 
 🛠️ **Tools**  
 - **Language**: Python, SQL  
-- **Database**: PostgreSQL, MySQL  
+- **Database**: MySQL  
 - **Visualization**: Power BI, Tableau  
 
 👋🏻 **Connect with Me**  
